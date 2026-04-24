@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Detalhes do Evento</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Detalhes do Evento</h1>
+
+<div id="evento"></div>
+
+<h3>Upload de Imagem</h3>
+<input type="file" id="imagem">
+<button onclick="enviarImagem()">Enviar</button>
+
+<h3>Galeria</h3>
+<div id="galeria"></div>
+
+<br>
+<button onclick="voltar()">Voltar</button>
+
+<script src="script.js"></script>
+<script>
+  carregarDetalhes();
+
+  function voltar() {
+    window.location.href = "index.html";
+  }
+</script>
+
+</body>
+</html>

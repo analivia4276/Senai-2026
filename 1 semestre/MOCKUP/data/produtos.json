@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "nome":"Camiseta regata",
+        "descricao":"Camiseta regata masculina",
+        "preco":38.9,
+        "quantidade":10,
+        "img": "https://lojanewold.vtexassets.com/arquivos/ids/158841/regata-tricot-masculina-nazare-kaqui--1-.png.png?v=638787023459970000"
+    },
+    {
+        "id":2,
+        "nome":"Moletom",
+        "descricao":"Moletom preto",
+        "preco":70,
+        "quantidade":8,
+        "img": "https://cdn.iset.io/assets/66687/produtos/21830/819f81c9065e4902cf1a76b2440df86d687107d312fe9.png"
+    },
+    {
+        "id":3,
+        "nome":"Shorts",
+        "descricao":"Shorts tactel",
+        "preco":40,
+        "quantidade":15,
+        "img": ""
+    },
+    {
+        "id":4,
+        "nome":"Calca jeans",
+        "descricao":"Calca jeans masculina",
+        "preco":49.9,
+        "quantidade":5,
+        "img": ""
+    },
+    {
+        "id":5,
+        "nome":"Camiseta manga longa",
+        "descricao":"Camiseta manga longa masculina",
+        "preco":35,
+        "quantidade":10,
+        "img": ""
+    },
+    {
+        "id":6,
+        "nome":"Boné",
+        "descricao":"Boné",
+        "preco":45.9,
+        "quantidade":10,
+        "img": "https://imgcentauro-a.akamaihd.net/1200x1200/91265402A8.jpg"
+    },
+    {
+        "id":7,
+        "nome":"Camiseta lisa",
+        "descricao":"Camiseta lisa",
+        "preco":30,
+        "quantidade":32,
+        "img": ""
+    },
+    {
+        "id":8,
+        "nome":"Luva",
+        "descricao":"Luva basica",
+        "preco":12,
+        "quantidade":25,
+        "img": ""
+    },
+    {
+        "id":9,
+        "nome":"Camiseta linho",
+        "descricao":"Camiseta de linho",
+        "preco":95,
+        "quantidade":16,
+        "img": "https://cdn.awsli.com.br/2500x2500/1300/1300343/produto/131296244/myr-23-0924818-01jlks41ds.jpg"
+    },
+    {
+        "id":10,
+        "nome":"Shorts linho",
+        "descricao":"Shorts basico de Linho",
+        "preco":80,
+        "quantidade":10,
+        "img": "https://http2.mlstatic.com/D_968218-MLB84760457955_052025-O.jpg"
+    }
+]

@@ -1,0 +1,6 @@
+//prisma @prisma/client
+npm i prisma @prisma/client
+
+npx prisma init --datasource-provider mysql
+
+npx prisma migrate dev
